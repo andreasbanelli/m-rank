@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'rails_12factor'
 gem 'pg', group: :production # Added postgres and made it production 
+gem 'font-awesome-rails'
 
 
 
