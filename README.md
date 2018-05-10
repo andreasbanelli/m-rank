@@ -1,24 +1,28 @@
-# README
+# M-Rank
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+site web : https://protected-everglades-17217.herokuapp.com
 
-Things you may want to cover:
+Ce projet a été crée par Andréas et Lucas. 
 
-* Ruby version
+Le projet : M-Rank est un site web qui permet d'analyser 
 
-* System dependencies
+1) La conception
 
-* Configuration
+On a choisi un template sur le site https://html5up.net
+Une fois le template téléchargé, nous avons crée l'app rails, et inséré les assets dans rails (images, js). 
+Nous avons modifié la mise en page. 
 
-* Database creation
+Nous l'avons relié avec un formulaire mailchimp afin de récupérer les mails. 
 
-* Database initialization
+Ajour de google analytics
 
-* How to run the test suite
+2) Déploiement sur Heroku 
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+3) Axes de progression 
 
-* ...
+Il y a des choses à revoir, les animations javascript ne sont pas passées, l'image du background n'est pas centrée comme voulu. 
+
+4) Acquisition d'une base de données de users
+
+
